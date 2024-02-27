@@ -1,5 +1,3 @@
-# boka_fix
-
 A new Flutter project.
 
 ## Getting Started
